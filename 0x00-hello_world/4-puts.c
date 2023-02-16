@@ -1,14 +1,11 @@
-  #include <stdio.h>
-
-
+#include <stdio.h>
 /**
-  * main-prints "programming is like building a multi linqual puzzle followed by a newline.
-  * Return 0.
-  */    
-
-int main (void)
+ *  * main - A program that prints a line with puts function
+ *   * Return: 0 (Success)
+ *    */
+int main(void)
 {
-	        puts("\"programming is like building a multilingual puzzle");
-	
-	        return (0);
-}	 
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
+}
+	 
