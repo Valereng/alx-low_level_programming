@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
-*  * main - Task eight wahala
+   * main - Task eight wahala
    * Return: 1
    */
 int main(void)
