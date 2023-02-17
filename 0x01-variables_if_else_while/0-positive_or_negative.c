@@ -5,8 +5,8 @@
  #include <stdio.h>
 
 /**
-  * main - prints if number is positive, zero or negative.
-  * Return: Always 0 (Success)
+  * main - prints if number is positive, zero or negative
+  * Return: Always  (Success)
   */
 
 int main(void)
