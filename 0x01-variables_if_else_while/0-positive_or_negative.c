@@ -2,10 +2,9 @@
 
 #include <time.h>
 
- #include <stdio.h>
+#include <stdio.h>
 
-/**
- 
+/** 
   * main - prints if a number is positive, zero or negative 
   * Return: Always 0 (Success)
   *
