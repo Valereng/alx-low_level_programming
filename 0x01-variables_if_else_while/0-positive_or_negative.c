@@ -2,10 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 
-/** 
-  * main - prints if a number is positive, zero or negative 
-  * Return: Always 0 (Success)
-  */ 	
+/**
+  * main - prints if a number is positive, zero or negative
+  * Return: Always  (Success)
+  */
 
 int main(void)
 
@@ -31,4 +31,4 @@ if (n == 0)
 return (0);
 
 }
-		 		 
+
