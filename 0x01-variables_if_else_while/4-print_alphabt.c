@@ -1,20 +1,24 @@
 #include <stdio.h>
 /**
-  *main- prints the alphabet in lowercase 
-  *Return: Always 0(Success)
+  * main- prints the alphabet in lowercase
+  * Return: Always 0(Success)
   */
 int main(void)
 {
-	char C;
+	char c;
 
 	c = 'a';
 	while
-	(c <= 'Z') {
-		if ((c != 'q' && c != 'e') && c <= 'Z')
-			 
-			puchar(c);
-	              c++;
+	(c <= 'Z')
+	{
+
+
+			if
+				((c != 'q' && c != 'e') && c <= 'Z')
+
+			putchar(c);
+			c++;
 	}
-      puchar('\'n')
-      return (0);
-}      
+	putchar('\n');
+	return (0);
+}
