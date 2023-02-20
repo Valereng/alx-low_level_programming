@@ -5,16 +5,17 @@
   */
 int main(void)
 {
-	char c;
+	;
 
-	c = 'a';
+	int c = 'a';
+
 	while
 	(c <= 'Z')
 	{
 
 
 			if
-				((c != 'q' && c != 'e') && c <= 'Z')
+				((c != 'q' && c != 'e') && c <= 'Z');
 
 			putchar(c);
 			c++;
