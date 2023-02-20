@@ -3,9 +3,10 @@
   * main- prints the alphabet in lowercase
   * Return: Always 0(Success)
   */
+
 int main(void)
 {
-	;
+
 
 	int c = 'a';
 
@@ -15,7 +16,9 @@ int main(void)
 
 
 			if
-				((c != 'q' && c != 'e') && c <= 'Z');
+				((c != 'q' && c != 'e') && c <= 'Z')
+
+
 
 			putchar(c);
 			c++;
