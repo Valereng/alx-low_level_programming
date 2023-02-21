@@ -1,5 +1,5 @@
-#ifndef msin_h
-	#define main_h
+#ifndef  MAIN.H
+	#define MAIN.H
 
 
 
