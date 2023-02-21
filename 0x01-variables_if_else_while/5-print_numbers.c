@@ -1,14 +1,18 @@
 #include <stdio.h>
 /**
-  *main -
+  *main -prints all single digit number
   *Return: Always 0 (Success)
   */
 int main(void)
 {
 	int a;
-	  for (a = 0, a < 10; a++)
-		  prin(t"%d", a)
-		
-		puchsr('\n')
+
+
+	for
+	       	(a = 0;  a < 10; a+)+;
+		printf("%d", a);
+
+		putchar('\n');
 		return (0);
+
 }
