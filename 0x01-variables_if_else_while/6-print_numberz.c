@@ -8,7 +8,8 @@ int main (void)
 	int c;
 
 	while
-		(c < 10) {
+		(c < 10) 
+		{
 			putchar(c + 10);
 			c++;
 
